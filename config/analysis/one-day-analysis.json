@@ -1,0 +1,35 @@
+{
+    "type": "one-day-analysis-all",
+    "one-days": [
+        {
+            "dir": "./fairphone"
+        },
+        {
+            "dir": "./google"
+        },
+        {
+            "dir": "./huawei"
+        },
+        {
+            "dir": "./motorola"
+        },
+        {
+            "dir": "./oneplus"
+        },
+        {
+            "dir": "./oppo"
+        },
+        {
+            "dir": "./realme"
+        },
+        {
+            "dir": "./samsung"
+        },
+        {
+            "dir": "./vivo"
+        },
+        {
+            "dir": "./xiaomi"
+        }
+    ]
+}

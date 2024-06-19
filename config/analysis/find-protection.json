@@ -1,0 +1,35 @@
+{
+    "type": "find-protection-all",
+    "all": [
+        {
+            "dir": "./fairphone"
+        },
+        {
+            "dir": "./google"
+        },
+        {
+            "dir": "./huawei"
+        },
+        {
+            "dir": "./motorola"
+        },
+        {
+            "dir": "./oneplus"
+        },
+        {
+            "dir": "./oppo"
+        },
+        {
+            "dir": "./realme"
+        },
+        {
+            "dir": "./samsung"
+        },
+        {
+            "dir": "./vivo"
+        },
+        {
+            "dir": "./xiaomi"
+        }
+    ]
+}
