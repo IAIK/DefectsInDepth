@@ -11,10 +11,6 @@ The artifacts include the dataset of 994 devices as well as the fully automated 
 
 The artifacts do not perform any destructive steps. Crucially, while we provide the [dataset](https://todo) (size of about 45GB) of kernel binaries and `kallsyms` susceptible to one-days for the artifact evaluation, we do not open source these as they could be used in a malicious intent.
 
-## Installation
-
-TODO
-
 ## Publication
 
 ```
